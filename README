@@ -1,0 +1,10 @@
+
+A Simple web App in Django
+=============================
+
+Install Python2.6
+Install Django
+
+Then clone the repo and copy it in a folder and run using
+
+http://localhost/user/
